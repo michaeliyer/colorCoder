@@ -624,6 +624,10 @@
         {
             "name": "Aquamarine",
             "hex": "#7FFFD4"
+        },
+        {
+            "name": "Dodger Blue",
+            "hex": "1e90ff"
         }
     ],
 
@@ -741,7 +745,7 @@
             "hex": "#0C0C0C"
         }
     ],
-    
+
     "Earth Tones": [
         {
             "name": "Terracotta",
