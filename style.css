@@ -1,8 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: white;
-    transition: background-color 0.5s ease-in-out; /* Smooth background change */
+    background-color: rgb(150, 69, 69);
+    transition: background-color 0.5s ease-in-out;    /* Smooth background change */
 }
 
 h1 {

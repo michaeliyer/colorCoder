@@ -45,7 +45,7 @@ function displayColorGroups(colors) {
     }
 }
 
-// Function to show clicked color details
+
 function showColorDetails(name, hex) {
     let details = document.getElementById("color-details");
 

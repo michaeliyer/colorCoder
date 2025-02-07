@@ -1,0 +1,120 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #000000;
+    transition: background-color 0.5s ease-in-out; /* Smooth background change */
+}
+
+h1 {
+    color: rgb(98, 96, 96)
+}
+/* Center the color palette */
+#color-container {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+/* Main color boxes */
+.main-color {
+    width: 4rem; /* Smaller */
+    height: 4rem;
+    margin: 6px;
+    cursor: pointer;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+/* Scale effect on hover */
+.main-color:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Sub-color swatches */
+.sub-color {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.7rem;
+    text-align: center;
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+/* Hover effect for sub-colors */
+.sub-color:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Auto-adjust color details inside box */
+.color-details {
+    position: absolute;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.6rem;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 5px;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3);
+    transition: opacity 0.3s ease;
+}
+
+/* Adjust font color for contrast */
+.color-details.dark-text {
+    color: black;
+}
+
+.color-details.light-text {
+    color: white;
+}
+
+/* Hide sub-colors initially */
+.hidden {
+    display: none;
+}
+
+/* Button styles */
+button {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.2s ease;
+}
+
+button:hover {
+    background-color: #333;
+}
+
+/* Style for color group titles */
+.color-group h2 {
+    font-size: 1rem; /* Smaller text */
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    text-align: center;
+}
