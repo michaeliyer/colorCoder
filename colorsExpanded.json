@@ -1,0 +1,100 @@
+{
+    "Red": [
+        { "name": "Crimson", "hex": "#DC143C" },
+        { "name": "Firebrick", "hex": "#B22222" },
+        { "name": "Scarlet", "hex": "#FF2400" },
+        { "name": "Ruby", "hex": "#E0115F" },
+        { "name": "Carmine", "hex": "#960018" },
+        { "name": "Burgundy", "hex": "#800020" },
+        { "name": "Cherry", "hex": "#DE3163" },
+        { "name": "Maroon", "hex": "#800000" },
+        { "name": "Sangria", "hex": "#92000A" },
+        { "name": "Brick Red", "hex": "#CB4154" }
+    ],
+    "Orange": [
+        { "name": "Amber", "hex": "#FFBF00" },
+        { "name": "Tangerine", "hex": "#F28500" },
+        { "name": "Vermilion", "hex": "#E34234" },
+        { "name": "Pumpkin", "hex": "#FF7518" },
+        { "name": "Burnt Orange", "hex": "#CC5500" },
+        { "name": "Coral", "hex": "#FF7F50" },
+        { "name": "Persimmon", "hex": "#EC5800" },
+        { "name": "Apricot", "hex": "#FBCEB1" },
+        { "name": "Sunset", "hex": "#FD5E53" },
+        { "name": "Rust", "hex": "#B7410E" }
+    ],
+    "Yellow": [
+        { "name": "Gold", "hex": "#FFD700" },
+        { "name": "Canary", "hex": "#FFFF99" },
+        { "name": "Lemon", "hex": "#FFF700" },
+        { "name": "Saffron", "hex": "#F4C430" },
+        { "name": "Mustard", "hex": "#FFDB58" },
+        { "name": "Dandelion", "hex": "#F0E130" },
+        { "name": "Sunflower", "hex": "#FFC512" },
+        { "name": "Butterscotch", "hex": "#E3963E" },
+        { "name": "Goldenrod", "hex": "#DAA520" },
+        { "name": "Honey", "hex": "#FFC30B" }
+    ],
+    "Green": [
+        { "name": "Emerald", "hex": "#50C878" },
+        { "name": "Jade", "hex": "#00A86B" },
+        { "name": "Olive", "hex": "#808000" },
+        { "name": "Forest Green", "hex": "#228B22" },
+        { "name": "Mint", "hex": "#98FB98" },
+        { "name": "Sea Green", "hex": "#2E8B57" },
+        { "name": "Lime", "hex": "#32CD32" },
+        { "name": "Chartreuse", "hex": "#7FFF00" },
+        { "name": "Shamrock", "hex": "#009E60" },
+        { "name": "Fern", "hex": "#4F7942" }
+    ],
+    "Blue": [
+        { "name": "Navy", "hex": "#000080" },
+        { "name": "Sky Blue", "hex": "#87CEEB" },
+        { "name": "Cyan", "hex": "#00FFFF" },
+        { "name": "Teal", "hex": "#008080" },
+        { "name": "Cerulean", "hex": "#007BA7" },
+        { "name": "Royal Blue", "hex": "#4169E1" },
+        { "name": "Azure", "hex": "#007FFF" },
+        { "name": "Sapphire", "hex": "#0F52BA" },
+        { "name": "Denim", "hex": "#1560BD" },
+        { "name": "Cornflower", "hex": "#6495ED" }
+    ],
+    "Purple": [
+        { "name": "Lavender", "hex": "#E6E6FA" },
+        { "name": "Violet", "hex": "#EE82EE" },
+        { "name": "Mauve", "hex": "#E0B0FF" },
+        { "name": "Indigo", "hex": "#4B0082" },
+        { "name": "Lilac", "hex": "#C8A2C8" },
+        { "name": "Orchid", "hex": "#DA70D6" },
+        { "name": "Amethyst", "hex": "#9966CC" },
+        { "name": "Plum", "hex": "#DDA0DD" },
+        { "name": "Eggplant", "hex": "#614051" },
+        { "name": "Heliotrope", "hex": "#DF73FF" }
+    ],
+    "Neon": [
+        { "name": "Neon Green", "hex": "#39FF14" },
+        { "name": "Electric Blue", "hex": "#7DF9FF" },
+        { "name": "Hot Pink", "hex": "#FF69B4" },
+        { "name": "Fluorescent Yellow", "hex": "#CCFF00" },
+        { "name": "Lime Neon", "hex": "#A7F432" },
+        { "name": "Ultra Violet", "hex": "#5F00FF" },
+        { "name": "Neon Orange", "hex": "#FF5F1F" },
+        { "name": "Laser Lemon", "hex": "#FFFF66" }
+    ],
+    "Pastel": [
+        { "name": "Pastel Pink", "hex": "#FFD1DC" },
+        { "name": "Pastel Blue", "hex": "#AEC6CF" },
+        { "name": "Pastel Green", "hex": "#77DD77" },
+        { "name": "Pastel Yellow", "hex": "#FDFD96" },
+        { "name": "Pastel Purple", "hex": "#B39EB5" },
+        { "name": "Mint Cream", "hex": "#F5FFFA" }
+    ],
+    "Metallic": [
+        { "name": "Silver", "hex": "#C0C0C0" },
+        { "name": "Bronze", "hex": "#CD7F32" },
+        { "name": "Copper", "hex": "#B87333" },
+        { "name": "Platinum", "hex": "#E5E4E2" },
+        { "name": "Steel", "hex": "#8C92AC" },
+        { "name": "Gold", "hex": "#FFD700" }
+    ]
+}

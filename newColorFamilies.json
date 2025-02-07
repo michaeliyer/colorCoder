@@ -1,0 +1,134 @@
+{
+    "Neon": [
+        {
+            "name": "Neon Green",
+            "hex": "#39FF14"
+        },
+        {
+            "name": "Electric Blue",
+            "hex": "#7DF9FF"
+        },
+        {
+            "name": "Hot Pink",
+            "hex": "#FF69B4"
+        },
+        {
+            "name": "Fluorescent Yellow",
+            "hex": "#CCFF00"
+        },
+        {
+            "name": "Ultra Violet",
+            "hex": "#5F00FF"
+        }
+    ],
+    "Pastel": [
+        {
+            "name": "Pastel Pink",
+            "hex": "#FFD1DC"
+        },
+        {
+            "name": "Pastel Blue",
+            "hex": "#AEC6CF"
+        },
+        {
+            "name": "Pastel Green",
+            "hex": "#77DD77"
+        },
+        {
+            "name": "Pastel Yellow",
+            "hex": "#FDFD96"
+        },
+        {
+            "name": "Pastel Purple",
+            "hex": "#B39EB5"
+        }
+    ],
+    "Metallic": [
+        {
+            "name": "Platinum",
+            "hex": "#E5E4E2"
+        },
+        {
+            "name": "Steel",
+            "hex": "#8C92AC"
+        },
+        {
+            "name": "Gold",
+            "hex": "#FFD700"
+        },
+        {
+            "name": "Bronze",
+            "hex": "#CD7F32"
+        },
+        {
+            "name": "Copper",
+            "hex": "#B87333"
+        }
+    ],
+    "Ocean": [
+        {
+            "name": "Deep Sea",
+            "hex": "#005F73"
+        },
+        {
+            "name": "Aqua",
+            "hex": "#00FFFF"
+        },
+        {
+            "name": "Cerulean",
+            "hex": "#007BA7"
+        },
+        {
+            "name": "Navy Blue",
+            "hex": "#000080"
+        },
+        {
+            "name": "Seafoam",
+            "hex": "#93E9BE"
+        }
+    ],
+    "Spatial": [
+        {
+            "name": "Cosmic Blue",
+            "hex": "#2E2D88"
+        },
+        {
+            "name": "Nebula Purple",
+            "hex": "#8A2BE2"
+        },
+        {
+            "name": "Galactic Teal",
+            "hex": "#1B4965"
+        },
+        {
+            "name": "Starlight Silver",
+            "hex": "#C0C0C0"
+        },
+        {
+            "name": "Black Hole",
+            "hex": "#0C0C0C"
+        }
+    ],
+    "Earth Tones": [
+        {
+            "name": "Terracotta",
+            "hex": "#E2725B"
+        },
+        {
+            "name": "Sienna",
+            "hex": "#A0522D"
+        },
+        {
+            "name": "Olive Drab",
+            "hex": "#6B8E23"
+        },
+        {
+            "name": "Moss Green",
+            "hex": "#8A9A5B"
+        },
+        {
+            "name": "Umber",
+            "hex": "#635147"
+        }
+    ]
+}
